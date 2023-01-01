@@ -52,19 +52,31 @@ HELP_TEXT = """**Hey, Follow these steps:**
 
 Made by @FayasNoushad"""
 
-ABOUT_TEXT = """--**About Me**-- 😎
+ABOUT_TEXT = """╔════❰ RENAME BOT ❱═❍⊱❁۪۪
 
-🤖 **Name :** [Telegraph Uploader](https://telegram.me/{})
+║╭━━━━━━━━━━━━━━━➣
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+║┣⪼👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/projectcrown>𝚃𝚎𝚊𝚖 𝙲𝚛𝚘𝚠𝚗 𝙱𝚘𝚝𝚣</a> 
 
-📢 **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+║┣⪼👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://t.me/little_little_hackur>𝙱𝚕𝚊𝚌𝚔 𝙷𝚊𝚝</a>
 
-🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/Telegraph-Uploader-Bot-V2)
+║┣⪼✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
 
-📝 **Language :** [Python3](https://python.org)
+║┣⪼🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://mogenius.com/home>𝙼𝙾𝙶𝙴𝙽𝙸𝚄𝚂</a>
 
-🧰 **Framework :** [Pyrogram](https://pyrogram.org)"""
+║┣⪼📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
+
+║┣⪼📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]
+
+║┣⪼😌 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 : <a href=https://instagram.com/itz_kunu_g?igshid=NmQ2ZmYxZjA=>@𝚒𝚝𝚣_𝚔𝚞𝚗𝚞_𝚐</a>
+
+║┣⪼🎮 𝙿𝚄𝙱𝙶 𝙲𝙾𝙽𝙵𝙸𝙶 : <a href=https://t.me/Cinecoder>@𝙲𝚒𝚗𝚎𝚌𝚘𝚍𝚎𝚛</a>
+
+║╰━━━━━━━━━━━━━━━➣
+
+╚══════════════════❍⊱❁۪۪
+
+                                """
 
 START_BUTTONS = InlineKeyboardMarkup(
     [
