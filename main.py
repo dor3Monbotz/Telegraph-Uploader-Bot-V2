@@ -34,8 +34,8 @@ START_TEXT = """**Hello {} 😌
 I am small media or file to telegra.ph link uploader bot.**
 
 >> `I can convert under 5MB photo or video to telegraph link.`
-
-Made by @FayasNoushad"""
+━━━━━━━━━━━━━━━━━━━━━━━
+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 :<a href=https://t.me/projectcrown>𝚃𝚎𝚊𝚖 𝙲𝚛𝚘𝚠𝚗 𝙱𝚘𝚝𝚣</a>"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -50,7 +50,7 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /about - For more about me
 /status - For bot updates
 
-Made by @FayasNoushad"""
+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 :<a href=https://t.me/projectcrown>𝚃𝚎𝚊𝚖 𝙲𝚛𝚘𝚠𝚗 𝙱𝚘𝚝𝚣</a>"""
 
 ABOUT_TEXT = """╔════❰ 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷 𝙱𝙾𝚃 ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
@@ -216,7 +216,7 @@ async def telegraph_upload(bot, update):
         return
     
     await text.edit_text(
-        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @FayasNoushad",
+        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @Cinecoder",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -224,7 +224,7 @@ async def telegraph_upload(bot, update):
                     InlineKeyboardButton(text="Open Link", url=f"https://telegra.ph{response[0]}"),
                     InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
                 ],
-                [InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://telegram.me/FayasNoushad")]
+                [InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://telegram.me/projectcrown")]
             ]
         )
     )
